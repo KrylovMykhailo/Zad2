@@ -1,5 +1,5 @@
 # Zad2
-# Basic vesion 
+## Basic vesion 
 
 This program allows you to calculate the areas and volumes of the following geometric shapes: square, cube.
 
