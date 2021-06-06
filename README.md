@@ -4,9 +4,9 @@
 This program allows you to calculate the areas and volumes of the following geometric shapes: square, cube.
 
 To run the program, enter the following commands: 
-> make
-> sudo make install
-> Code2
+* make
+* sudo make install
+* Code2
 
 If you want to calculate the area of a square   - press 1
 If you want to calculate the area of a cube     - press 2
